@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.steps-footer {
+	margin: 10px;
+}
+
+.steps-pagination {
+	font-size: 12px;
+	margin: 5px;
+	color: #D3D3D3;
+	cursor: pointer;
+}
+
+.steps-pagination-active {
+	font-size: 12px;
+	margin: 5px;
+	color: grey;
+	cursor: pointer;
+}
+
+.back-btn {
+	padding: 8px 15px;
+	background: white;
+	border: 1px solid #D3D3D3;
+	border-radius: 5px;
+	outline: none;
+	cursor: pointer;
+	margin-right: 5%;
+}
+
+.continue-btn {
+	padding: 8px 15px;
+	background: #6495ED;
+	color: white;
+	border: 1px solid #D3D3D3;
+	border-radius: 5px;
+	outline: none;
+	cursor: pointer;
+	margin-left: 5%;
+}

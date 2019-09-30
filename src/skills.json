@@ -1,0 +1,47 @@
+[
+    {
+        "skillId": 1,
+        "skill": "Business Communication",
+		"selected": false
+    },
+    {
+        "skillId": 2,
+        "skill": "Digital Marketing",
+		"selected": false
+    },
+    {
+        "skillId": 3,
+        "skill": "Change Management",
+		"selected": false
+    },
+    {
+        "skillId": 4,
+        "skill": "Full-Stack Development",
+		"selected": false
+    },
+    {
+        "skillId": 5,
+        "skill": "User Experience",
+		"selected": false
+    },
+    {
+        "skillId": 6,
+        "skill": "Sales Operation",
+		"selected": false
+    },
+    {
+       "skillId": 7,
+        "skill": "Design Thinking",
+		"selected": false
+    },
+    {
+        "skillId": 8,
+        "skill": "Demand Generation",
+		"selected": false
+    },
+    {
+        "skillId": 9,
+        "skill": "Machine Learning",
+		"selected": false
+    }
+]

@@ -1,0 +1,107 @@
+.step3-body {
+	background-color: #f8f8f8;
+	border: 1px solid #6495ED;
+	//overflow-y: overlay;
+	//height:100vmin;
+}
+
+.step3-title {
+	color: grey;
+	font-size: 5vmin;
+	font-weight: bold;
+}
+
+.step3-label {
+	color: darkgrey;
+	font-size: 3vmin;
+}
+
+.step3-search-wrapper {
+	position: relative;
+}
+
+.step3-search-wrapper input {
+	width: 50%;
+	background: white;
+	border: 1px solid #D3D3D3;
+	border-right: 0px;
+	border-radius: 5px 0px 0px 5px;
+	padding: 10px 15px;
+	outline: none;
+}
+
+.step3-search-wrapper button {
+	background: white;
+	border: 1px solid #D3D3D3;
+	border-left-style: none;
+	cursor: pointer;
+	display: inline-block;
+	padding: 10px 15px;
+	padding-right: 30px;
+	margin-right: 10px;
+	z-index: 2;
+	border-radius: 0px 5px 5px 0px;
+	outline: none;
+	color: #D3D3D3;
+}
+
+.step3-skill-list-wrapper {
+	position: relative;
+	margin-bottom: 5px;
+	outline: none;
+	
+}
+
+.step3-skill-list-selected {
+	width: 50%;
+	background: white;
+	border: 1px solid #6495ED;
+	border-right: 0px;
+	border-radius: 5px 0px 0px 5px;
+	padding: 9px 9px 8px 30px;
+	outline: none !important;
+	cursor: pointer;
+	text-align: left;
+	color: #6495ED;
+}
+
+.step3-skill-list-not-selected {
+	width: 50%;
+	background: white;
+	border: 1px solid #D3D3D3;
+	border-right: 0px;
+	border-radius: 5px 0px 0px 5px;
+	padding: 9px 9px 8px 30px;
+	outline: none !important;
+	cursor: pointer;
+	text-align: left;
+	color: black;
+}
+
+.step3-skill-list :active {
+	background: red;
+}
+
+.step3-checkmark-selected {
+	background: white;
+	border: 1px solid #6495ED;
+	border-left-style: none;
+	cursor: pointer;
+	padding: 10px 25px 10px 10px;
+	width: 2%;
+	border-radius: 0px 5px 5px 0px;
+	outline: none;
+	color: #6495ED;
+}
+
+.step3-checkmark-not-selected {
+	background: white;
+	border: 1px solid #D3D3D3;
+	border-left-style: none;
+	cursor: pointer;
+	padding: 10px 25px 10px 10px;
+	width: 2%;
+	border-radius: 0px 5px 5px 0px;
+	outline: none;
+	color: #D3D3D3;
+}
